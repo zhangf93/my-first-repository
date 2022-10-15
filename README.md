@@ -1,4 +1,3 @@
 # README #
 
-What up 
-edwfwioeqwe
+Practice test
